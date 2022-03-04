@@ -3,6 +3,10 @@
  <p>Descrição: BOT DO DISCORD  feito com python, com mensagem de boas-vindas. e mensagem quando alguem sair do servidor. com alguns comandos basicos.</p>
 
 
+### BOT 
+![This is an image](https://cdn.discordapp.com/attachments/926938470931382332/949367650176356382/avatar.png)
+<P> AVATAR DO BOT </P>
+
 
 ### 🛠 Tecnologias
 
